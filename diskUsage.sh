@@ -8,5 +8,6 @@ fi
 echo "this is a test"
 echo "New test git pull "
 
+echo "testing the fetch"
 
 
