@@ -6,6 +6,7 @@ then
   echo -e "Subject: Server memory has reached it's threshold limit please clean up and fix it." |sendmail -v "yuvastr@gmail.com"
 fi
 echo "this is a test"
+echo "New test git pull "
 
 
 
