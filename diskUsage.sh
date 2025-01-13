@@ -5,6 +5,7 @@ if [ $diskUsage -gt 25 ]
 then
   echo -e "Subject: Server memory has reached it's threshold limit please clean up and fix it." |sendmail -v "yuvastr@gmail.com"
 fi
+echo "this is a test"
 
 
 
