@@ -1,0 +1,22 @@
+Proposals to combine software development methodologies with deployment and operations concepts began to appear in the late 80s and early 90s.[9]
+
+Around 2007 and 2008, concerns were raised by those within the software development and IT communities that the separation between the two industries, where one wrote and created software entirely separate from those that deploy and support the software was creating a fatal level of dysfunction within the industry.[10]
+
+In 2009, the first conference named DevOps Days was held in Ghent, Belgium. The conference was founded by Belgian consultant, project manager and agile practitioner Patrick Debois.[11][12] The conference has now spread to other countries.[13]
+
+In 2012, a report called "State of DevOps" was first published by Alanna Brown at Puppet Labs.[14][15]
+
+As of 2014, the annual State of DevOps report was published by Nicole Forsgren, Gene Kim, Jez Humble and others. They stated that the adoption of DevOps was accelerating.[16][17] Also in 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.[18][19]
+
+In 2016, the DORA metrics for throughput (deployment frequency, lead time for changes), and stability (mean time to recover, change failure rate) were published in the State of DevOps report.[14] However, the research methodology and metrics were criticized by experts.[20][21][22][23] In response to these criticisms, the 2023 State of DevOps report [24] published changes that updated the stability metric "mean time to recover" to "failed deployment recovery time" acknowledging the confusion the former metric has caused.[25]
+
+Relevant metrics
+DORA metrics are a set of key metrics developed by DevOps Research and Assessment (DORA) which can help to measure software development efficiency and reliability. These metrics include: [26]
+
+Deployment Frequency: Time between code deployments.
+Mean Lead Time for Changes: Time between code commit and deployment.
+Change Failure Rate: Percentage of deployments causing production issues.
+Mean Time To Recovery: Time to resolve production issues.
+Reliability (added in 2021): [27] Measures operational performance, focusing on availability and adherence to user expectations.
+These metrics, when applied appropriately and within relevant context, facilitate insights into DevOps performance, enabling teams to optimize deployment speed, reliability and quality, thereby informing data-driven decisions to enhance software development processes. [26]
+hello-world2
