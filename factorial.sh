@@ -1,7 +1,8 @@
 #!/bin/bash
-echo "Enter the number for the factorial"
-read num
+
+num=$1
 factorial=1
+
 for (( i=1; i<=num; i++ ))
 do
   factorial=$((factorial * i))
