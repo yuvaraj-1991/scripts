@@ -8,4 +8,4 @@ do
   factorial=$((factorial * i))
 done
 
-echo "The factorial of $num is $factorial"
+echo "The fact of $num is $factorial"
